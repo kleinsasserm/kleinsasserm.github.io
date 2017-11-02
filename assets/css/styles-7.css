@@ -61,7 +61,7 @@ p {
   background: #555;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 250px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -106,7 +106,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 20px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
